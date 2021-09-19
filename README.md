@@ -4,7 +4,7 @@
 - 👀  I’m interested in iOS development.
 - 📚  I’m currently learning Swift.
 
-### Reach me at:
+## Reach me at:
 * [Twitter](https://www.twitter.com/alexandrei64)
 * [LinkedIn](https://www.linkedin.com/in/alexandrei64)
 
