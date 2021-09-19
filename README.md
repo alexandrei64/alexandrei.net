@@ -1,7 +1,7 @@
 # [alexandrei.net](https://alexandrei.net)
-<br> :wave: - Hi, I’m Alex Andrei <br />
-<br> :pushpin: - Currently based in Bucharest, RO <br />
-<br> :books: - I'm an aspiring iOS developer <br />
+<br> 👋 - Hi, I’m Alex Andrei
+<br> 📌 - Currently based in Bucharest, RO
+<br> 📚 - I'm an aspiring iOS developer
 
 Check my progress on [GitHub](https://www.github.com/alexandrei64).
 
