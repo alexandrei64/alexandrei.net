@@ -1,6 +1,6 @@
 # [alexandrei.net](https://alexandrei.net)
 
-<br> 👨‍💻 - I’m Alex Andrei
+<br> 👋 - Hi, I’m Alex Andrei
 <br> 📚 - I'm an aspiring iOS developer
 <br> 📌 - Currently based in Bucharest, RO
 
