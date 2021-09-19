@@ -1,4 +1,4 @@
-# [👋 Hello!](https://alexandrei.net)
+# [alexandrei.net](https://alexandrei.net)
 
 <br> 👨‍💻 - I’m Alex Andrei
 <br> 📚 - I'm an aspiring iOS developer
