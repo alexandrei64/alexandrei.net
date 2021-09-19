@@ -9,4 +9,4 @@ Check my progress on [GitHub](https://www.github.com/alexandrei64).
 * [Twitter](https://www.twitter.com/alexandrei64)
 * [LinkedIn](https://www.linkedin.com/in/alexandrei64)
 
-**Thanks!**
+Thanks!
