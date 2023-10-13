@@ -6,7 +6,7 @@
 <br> 📊 - I'm a Data Analyst
 <br> 📌 - Based in Bucharest, RO
 
-[Grab my Resume.]()
+[Grab my Resume.]("/Assets/Resume_AlexAndrei.pdf")
 
 **Reach me at:**
 * [𝕏](https://www.x.com/alexandrei64)
