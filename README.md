@@ -1,10 +1,12 @@
 # [alexandrei.net](https://alexandrei.net)
 
+**About me**
+
 <br> 👋 - Hi, I’m Alex Andrei
 <br> 📊 - I'm a Data Analyst
 <br> 📌 - Based in Bucharest, RO
 
-Not much to see here yet!
+[Grab my Resume.]()
 
 **Reach me at:**
 * [𝕏](https://www.x.com/alexandrei64)
