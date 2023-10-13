@@ -1,7 +1,7 @@
 # [alexandrei.net](https://alexandrei.net)
 
 
-**About me**
+**About me:**
 <br> 👋  Hi, I’m Alex Andrei
 <br> 📊  I'm a Data Analyst
 <br> 📌  Based in Bucharest, RO
