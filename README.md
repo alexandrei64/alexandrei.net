@@ -1,3 +1,6 @@
+<html>
+<body style="background-color:#F1F1F1;">
+  
 # [alexandrei.net](https://alexandrei.net)
 
 <div style="text-align: center;">
@@ -20,3 +23,9 @@
 
 **Thanks!**
 </div>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
