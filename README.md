@@ -1,5 +1,10 @@
 # [alexandrei.net](https://alexandrei.net)
 
+<div style="text-align: center;">
+<img src="/Assets/profile_picture.PNG" alt="Alex Andrei" style="width:350px;height:350px;">
+</div>
+
+<div style="text-align: center;">
 **About me:**
 <br>
 <br> 👋  Hi, I’m Alex Andrei
@@ -14,3 +19,4 @@
 * [GitHub](https://www.github.com/alexandrei64)
 
 **Thanks!**
+</div>
