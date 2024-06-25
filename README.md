@@ -5,8 +5,6 @@
 <br> 👋  Hi, I’m Alex Andrei
 <br> 📊  I'm a Data Analyst
 <br> 📌  Based in Bucharest, RO
-<br>
-<br> [Grab my Resume.](/Assets/Resume_AlexAndrei.pdf)
 
 **Social:**
 * [𝕏](https://www.x.com/alexandrei64)
