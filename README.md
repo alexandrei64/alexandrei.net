@@ -7,7 +7,6 @@
 <br> 📌  Based in Bucharest, RO
 
 **Social:**
-* [𝕏](https://www.x.com/alexandrei64)
 * [LinkedIn](https://www.linkedin.com/in/alexandrei64)
 * [GitHub](https://www.github.com/alexandrei64)
 
